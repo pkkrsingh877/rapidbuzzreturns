@@ -1,0 +1,2 @@
+# rapidbuzzreturns.github.io
+I'll be hosting all the html projects(the static ones) over here.
