@@ -1,0 +1,24 @@
+.thick-purple-border{
+    border-color: purple;
+    border-width: 7px;
+    border-style: solid;
+    border-radius: 7px;
+}
+
+.green-yellow-text{
+    color: greenyellow;
+    text-align: left;
+}
+
+.new-font{
+    font-family: 'Josefin Sans',  'Gill Sans MT';
+    font-size: 64px;
+}
+
+.another-new-font{
+    font-family: 'Tienne', serif;
+}
+
+
+
+

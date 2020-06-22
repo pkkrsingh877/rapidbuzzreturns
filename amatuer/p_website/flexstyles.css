@@ -1,0 +1,16 @@
+
+    body{
+        margin : 10%;
+        height : 8vh;
+        background-image: url(erza1.jpg);
+        background-position: center;
+        background-size:cover;
+        display : inline-flexbox;
+        align-items : right;
+        justify-self: center;
+        color :rgb(38, 7, 212);
+        font-size: 4vw;
+
+    }
+  
+    
